@@ -1,0 +1,9 @@
+.DS_Store
+build-stamp
+configure-stamp
+*.log
+*.access
+ebin
+._*
+c_src/._dvbs2.c
+output.ts
